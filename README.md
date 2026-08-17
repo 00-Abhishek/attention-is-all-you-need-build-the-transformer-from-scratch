@@ -1,0 +1,2 @@
+# attention-is-all-you-need-build-the-transformer-from-scratch
+Reimplement the original encoder-decoder Transformer end to end in PyTorch, from token vocabularies and sinusoidal positional encodings through multi-head attention, label smoothing, Noam scheduling, and beam search. By the end you will have a working seq2seq Transformer training loop and inference pipeline assembled from first principles.
